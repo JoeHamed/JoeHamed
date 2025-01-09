@@ -1,6 +1,13 @@
 # 💫 About Me:
-💻 Computer Engineer | Python Tamer | AI Whisperer 🤖<br><br>🧠 Teaching machines to learn, and sometimes unlearn their bad habits.<br>🐍 Code in Python, debug in panic.<br>📈 Turning math into magic, one neural network at a time (and praying it converges).<br>💾 Computer engineer by degree, caffeine-powered bug fixer by destiny.<br><br>💬 "If at first you don’t succeed, just increase the epochs!"<br>🛠️ Tools of the trade: Python, TensorFlow, and an unreasonable amount of StackOverflow tabs.<br>🍕 Running on algorithms, coffee, and the occasional pizza slice.
+💻 Computer Engineer | Python Developer | AI Specialist 🤖
+🧠 Specializing in developing machine learning models, refining algorithms, and optimizing AI systems for real-world applications.
+🐍 Proficient in Python programming, with expertise in debugging complex systems and solving challenging problems.
+📈 Transforming mathematical concepts into actionable insights through advanced neural networks and predictive analytics.
 
+💾 Background: A computer engineer by education, with a passion for innovative problem-solving and continuous learning in the field of artificial intelligence.
+
+💬 "If at first you don’t succeed, tweak the model and up the epochs!"
+🛠️ Key Tools: Python, TensorFlow, and a deep understanding of machine learning frameworks, and a whole lot of StackOverflow wisdom.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/372105276028878858) 
