@@ -2,7 +2,7 @@
 - 💻 Computer Engineer | Python Developer | AI Specialist 🤖
 -  🧠 Specializing in developing machine learning models, refining algorithms, and optimizing AI systems for real-world applications.
 - 🐍 Proficient in Python programming, with expertise in debugging complex systems and solving challenging problems.
-- 📈 Transforming mathematical concepts into actionable insights through advanced neural networks and predictive analytics.
+- 📈 Turning math into meaningful results with neural networks (and crossing my fingers they converge).
 
 - 💾 Background: A computer engineer by education, with a passion for innovative problem-solving and continuous learning in the field of artificial intelligence.
 
