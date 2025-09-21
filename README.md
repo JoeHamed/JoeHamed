@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 💻 Data Scientist | AI Specialist 🤖
+- 💻 AI & Data Science Enigneer 🤖
 -  🧠 Specializing in developing machine learning models, refining algorithms, and optimizing AI systems for real-world applications.
 - 🐍 Proficient in Python programming, with expertise in debugging complex systems and solving challenging problems.
 - 📈 Turning math into meaningful results with neural networks (and crossing my fingers they converge).
