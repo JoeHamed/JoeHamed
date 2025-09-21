@@ -1,5 +1,5 @@
 # About Me:
-- AI & Data Science Enigneer
+- AI & Data Science Engineer
 - Focused on designing intelligent systems that turn data into real-world solutions
 - Experienced across data engineering, machine learning, and automation
 - Interested in applying AI in both enterprise and creative domains
