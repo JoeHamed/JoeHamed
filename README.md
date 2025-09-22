@@ -1,12 +1,11 @@
 # About Me:
-- AI & Data Science Engineer
-- Focused on designing intelligent systems that turn data into real-world solutions
-- Experienced across data engineering, machine learning, and automation
-- Interested in applying AI in both enterprise and creative domains
-- Strong foundation in Python, SQL, and modern AI frameworks
-- "AI isn’t magic—it’s iteration, optimization, and creativity."
+- AI & Data Science Engineer with expertise in data engineering, machine learning, and automation
 
-- Background: A computer engineer by education, with a passion for innovative problem-solving and continuous learning in the field of artificial intelligence.
+- Skilled in Python, SQL, and modern AI frameworks
+
+- Designs intelligent systems that turn data into real-world solutions
+
+- Background in computer engineering with a passion for innovation and problem-solving
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joehamed/)
